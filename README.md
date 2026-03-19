@@ -40,6 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+![image](https://github.com/MUTTHU10/EXP-3/blob/main/Screenshot%202026-03-19%20151400.png?raw=true)
 Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
